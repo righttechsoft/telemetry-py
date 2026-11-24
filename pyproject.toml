@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rt-telemetry"
+version = "0.1.0"
+description = "Logs, crashes and metrics to the RightTech telemetry ingest, with an on-disk spool"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[tool.setuptools]
+packages = ["rt_telemetry"]
