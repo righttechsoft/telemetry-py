@@ -4,7 +4,7 @@ Ships logs, crashes and metrics to the telemetry ingest. Stdlib only, Python 3.9
 
 ## Install
 
-    pip install git+ssh://git@github.com/righttechsoft/telemetry-py@v0.1.0
+    pip install git+https://github.com/righttechsoft/telemetry-py@v0.1.0
 
 ## Setup
 
